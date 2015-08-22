@@ -1,0 +1,27 @@
+
+p {
+  color: white;
+}
+h1.titles303 {
+  color: white;
+}
+
+h1.vapor303 {
+  text-align:center;
+  text-decoration: underline overline;
+  word-spacing: 10px;
+}
+
+footer {
+  display: block;
+  background: black;
+}
+div.view303 {
+  height: 400px;
+  display: block;
+}
+div.custom1{
+  display: block;
+  background-color: rgba(0,0,0,0.5);
+}
+
